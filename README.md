@@ -1,5 +1,4 @@
-# armandotravels.com
-Travel webpage
+
 !DOCTYPE html>
 <html>
     <head>
@@ -7,8 +6,7 @@ Travel webpage
         <title>Spin-off of "Project: Travel webpage"</title>
     </head>
     <body>
-    <style>
-    
+    <style> 
     #titulo{
         color:black;
         background:white;
@@ -16,7 +14,6 @@ Travel webpage
     body{
         font-family:Verdana, Geneva, Tahoma, sans-serif;
         background-color: rgb(43, 84, 173);
-        
     }
     h1{
         color:white;
@@ -35,16 +32,10 @@ Travel webpage
         background: white;
         color:navy;
     }
-    
     #despedida{
         font-size:30px;
-        background:white;
-        
-    }
-    
-    
-    
-    
+        background:white; 
+}   
     </style>
         <h1 id="titulo">Travel to ....</h1>
         <h2>Let's go to New York!</h2>
